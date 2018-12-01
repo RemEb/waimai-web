@@ -25,3 +25,4 @@ npm run test
 npm run lint
 ```
 # waimai-web
+用Vue来实现美团商家列表展示排序的界面。
